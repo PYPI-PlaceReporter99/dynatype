@@ -1,5 +1,5 @@
 # dynatype
-A dynamic type checker.
+A dynamic type checker for Python.
 ## What happens?
 When you import the module, it silently decorates all your functions with a type checker.
 ## How do I use it?
